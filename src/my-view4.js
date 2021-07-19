@@ -80,7 +80,7 @@ class MyView4 extends PolymerElement {
 <li>Suspending or terminating your Service with or without notice upon any violation of this Policy. Any violations may also result in the immediate suspension or termination of your account.</li>
 <li>Disabling or removing any content which is prohibited by this Policy, including to prevent harm to others or to us or the Website and Services, as determined by us in our sole discretion.</li>
 <li>Reporting violations to law enforcement as determined by us in our sole discretion.</li>
-<li>A failure to respond to an email from our abuse team within 2 days, or as otherwise specified in the communication to you, may result in the suspension or termination of your account.</li>
+<li>A failure to respond to an email from our abuse team within 2 days, or as otherwise specified in the communication to you, may result in the suspension or termination of your account.</li> 
 </ul>
 <p>Suspended and terminated User accounts due to violations will not be re-activated.</p>
 <p>Nothing contained in this Policy shall be construed to limit our actions or remedies in any way with respect to any of the prohibited activities. In addition, we reserve at all times all rights and remedies available to us with respect to such activities at law or in equity.</p>
@@ -89,7 +89,7 @@ class MyView4 extends PolymerElement {
 <h2>Changes and Amendments</h2>
 <p>We reserve the right to modify this Policy or its terms relating to the Website and Services at any time, effective upon posting of an updated version of this Policy on the Website. When we do, we will revise the updated date at the bottom of this page. Continued use of the Website and Services after any such changes shall constitute your consent to such changes.</p>
 <h2>Acceptance of This Policy</h2>
-<p>You acknowledge that you have read this Policy and agree to all its terms and conditions. By accessing and using the Website and Services you agree to be bound by this Policy. If you do not agree to abide by the terms of this Policy, you are not authorized to access or use the Website and Services. This acceptable use policy was created with the <a target="_blank" href="https://www.websitepolicies.com/acceptable-use-policy-generator">acceptable use policy generator</a>.</p>
+<p>You acknowledge that you have read this Policy and agree to all its terms and conditions. By accessing and using the Website and Services you agree to be bound by this Policy. If you do not agree to abide by the terms of this Policy, you are not authorized to access or use the Website and Services.</p>
 <h2>Contacting Us</h2>
 <p>If you would like to contact us to understand more about this Policy or wish to contact us concerning any matter relating to it, you may do so via the <a target="_blank" rel="nofollow" href="https://melvinhgf.net/contactus">contact form</a> or send an email to &#97;b&#117;&#115;&#101;&#64;me&#108;vin&#104;&#103;f.ne&#116;.</p>
 <p>This document was last updated on September 13, 2019</p>
