@@ -86,11 +86,11 @@ class MyView4 extends PolymerElement {
 <p>Nothing contained in this Policy shall be construed to limit our actions or remedies in any way with respect to any of the prohibited activities. In addition, we reserve at all times all rights and remedies available to us with respect to such activities at law or in equity.</p>
 <h2>Reporting Violations</h2>
 <p>If you have discovered and would like to report a violation of this Policy, please contact us immediately. We will investigate the situation and provide you with full assistance.</p>
-<h2>Changes and amendments</h2>
+<h2>Changes and Amendments</h2>
 <p>We reserve the right to modify this Policy or its terms relating to the Website and Services at any time, effective upon posting of an updated version of this Policy on the Website. When we do, we will revise the updated date at the bottom of this page. Continued use of the Website and Services after any such changes shall constitute your consent to such changes.</p>
-<h2>Acceptance of this policy</h2>
+<h2>Acceptance of This Policy</h2>
 <p>You acknowledge that you have read this Policy and agree to all its terms and conditions. By accessing and using the Website and Services you agree to be bound by this Policy. If you do not agree to abide by the terms of this Policy, you are not authorized to access or use the Website and Services. This acceptable use policy was created with the <a target="_blank" href="https://www.websitepolicies.com/acceptable-use-policy-generator">acceptable use policy generator</a>.</p>
-<h2>Contacting us</h2>
+<h2>Contacting Us</h2>
 <p>If you would like to contact us to understand more about this Policy or wish to contact us concerning any matter relating to it, you may do so via the <a target="_blank" rel="nofollow" href="https://melvinhgf.net/contactus">contact form</a> or send an email to &#97;b&#117;&#115;&#101;&#64;me&#108;vin&#104;&#103;f.ne&#116;.</p>
 <p>This document was last updated on September 13, 2019</p>
       </div>
