@@ -104,7 +104,7 @@ class MyApp extends PolymerElement {
 <a name="view5" href="[[rootPath]]view5">Contact Us</a>
 
 <!-- CookiePro CCPA Opt-Out Link Start -->
-<a name="view6" href="javascript:void(0)" data-ot-ccpa-opt-out="link" style="display:none;">Do Not Sell My Personal Information</a>
+<a name="view6" href="[[rootPath]]view6"><a href="javascript:void(0)" data-ot-ccpa-opt-out="link" style="display:none;">Do Not Sell My Personal Information</a></a>
 <!-- CookiePro CCPA Opt-Out Link End -->
 
           </iron-selector>
