@@ -23,8 +23,8 @@ class MyView5 extends PolymerElement {
       </style>
 
       <div class="card">
-<script src="https://www.cognitoforms.com/s/YtcYQljz2kStKCpk9voQJw"></script>
-<script>Cognito.load("forms", { id: "1" });</script>
+<h1>Contact Us</h1>
+<script src="https://www.cognitoforms.com/f/seamless.js" data-key="YtcYQljz2kStKCpk9voQJw" data-form="1"></script>
       </div>
     `;
   }
