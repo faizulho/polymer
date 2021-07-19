@@ -24,8 +24,9 @@ class MyView5 extends PolymerElement {
 
       <div class="card">
 <h1>Contact Us</h1>
-<script src="https://www.cognitoforms.com/f/seamless.js" data-key="YtcYQljz2kStKCpk9voQJw" data-form="1"></script>
-      </div>
+<iframe src="https://www.cognitoforms.com/f/YtcYQljz2kStKCpk9voQJw?id=1" style="position:relative;width:1px;min-width:100%;*width:100%;" frameborder="0" scrolling="yes" seamless="seamless" height="1042" width="100%"></iframe>
+<script src="https://www.cognitoforms.com/scripts/embed.js"></script>
+</div>
     `;
   }
 }
