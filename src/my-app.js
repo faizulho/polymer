@@ -90,7 +90,7 @@ class MyApp extends PolymerElement {
       <app-drawer-layout fullbleed="" narrow="{{narrow}}">
         <!-- Drawer content -->
         <app-drawer id="drawer" slot="drawer" swipe-open="[[narrow]]">
-          <app-toolbar><a href="https://melvinhgf.business.site">Website</a></app-toolbar>
+          <app-toolbar><a href="https://melvinhgf.business.site"><img src = "https://res.cloudinary.com/melvinhgf-net-solutions/image/upload/c_thumb,w_200,g_face/v1474616440/brand-logo-hori.jpg"</img></a></app-toolbar>
           <iron-selector
             selected="[[page]]"
             attr-for-selected="name"
