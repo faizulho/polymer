@@ -90,7 +90,7 @@ class MyApp extends PolymerElement {
       <app-drawer-layout fullbleed="" narrow="{{narrow}}">
         <!-- Drawer content -->
         <app-drawer id="drawer" slot="drawer" swipe-open="[[narrow]]">
-          <app-toolbar>Policies</app-toolbar>
+          <app-toolbar>Menu</app-toolbar>
           <iron-selector
             selected="[[page]]"
             attr-for-selected="name"
@@ -101,6 +101,8 @@ class MyApp extends PolymerElement {
             <a name="view2" href="[[rootPath]]view2">Cookie</a>
             <a name="view3" href="[[rootPath]]view3">ToC</a>
 <a name="view4" href="[[rootPath]]view4">Acceptable Use</a>
+
+<a name="view5" href="[[rootPath]]view5">Contact Us</a>
 
           </iron-selector>
         </app-drawer>
@@ -122,6 +124,7 @@ class MyApp extends PolymerElement {
             <my-view2 name="view2"></my-view2>
             <my-view3 name="view3"></my-view3>
 <my-view4 name="view4"></my-view4>
+<my-view5 name="view5"></my-view5>
 
             <my-view404 name="view404"></my-view404>
           </iron-pages>
@@ -153,7 +156,7 @@ class MyApp extends PolymerElement {
     // Show 'view1' in that case. And if the page doesn't exist, show 'view404'.
     if (!page) {
       this.page = 'view1';
-    } else if (['view1', 'view2', 'view3', 'view4'].indexOf(page) !== -1) {
+    } else if (['view1', 'view2', 'view3', 'view4', 'view5'].indexOf(page) !== -1) {
       this.page = page;
     } else {
       this.page = 'view404';
@@ -182,6 +185,9 @@ class MyApp extends PolymerElement {
         break;
 case 'view4':
         import('./my-view4.js');
+        break;
+case 'view5':
+        import('./my-view5.js');
         break;
       case 'view404':
         import('./my-view404.js');
