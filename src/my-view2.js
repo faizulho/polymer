@@ -23,9 +23,7 @@ class MyView2 extends PolymerElement {
       </style>
 
       <div class="card">
-        <div class="circle">2</div>
         <h1>Cookie Consent</h1>
-        <p>Ea duis bonorum nec, falli paulo aliquid ei eum.</p>
         <p>
          <!-- Cookie Consent by https://www.TermsFeed.com -->
 <script type="text/javascript" src="//www.termsfeed.com/public/cookie-consent/4.0.0/cookie-consent.js" charset="UTF-8"></script>
