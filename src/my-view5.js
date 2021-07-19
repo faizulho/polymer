@@ -23,8 +23,10 @@ class MyView5 extends PolymerElement {
       </style>
 
       <div class="card">
-<h1>Acceptable Use Policy</h1>
-
+<div class="cognito">
+<script src="https://www.cognitoforms.com/s/YtcYQljz2kStKCpk9voQJw"></script>
+<script>Cognito.load("forms", { id: "1" });</script>
+</div>
       </div>
     `;
   }
