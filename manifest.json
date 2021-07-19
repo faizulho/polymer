@@ -1,7 +1,7 @@
 {
-  "name": "My App",
-  "short_name": "My App",
-  "description": "My App description",
+  "name": "Legal Documentation",
+  "short_name": "Legal Documentation",
+  "description": "Document website of MELVINHGF.NET: Your Online Solutions Provider.",
   "icons": [
     {
       "src": "images/manifest/icon-192x192.png",
