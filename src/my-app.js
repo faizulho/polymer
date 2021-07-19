@@ -153,7 +153,7 @@ class MyApp extends PolymerElement {
     // Show 'view1' in that case. And if the page doesn't exist, show 'view404'.
     if (!page) {
       this.page = 'view1';
-    } else if (['view1', 'view2', 'view3'].indexOf(page) !== -1) {
+    } else if (['view1', 'view2', 'view3', 'view4'].indexOf(page) !== -1) {
       this.page = page;
     } else {
       this.page = 'view404';
