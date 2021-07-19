@@ -103,10 +103,6 @@ class MyApp extends PolymerElement {
 <a name="view4" href="[[rootPath]]view4">Acceptable Use</a>
 <a name="view5" href="[[rootPath]]view5">Contact Us</a>
 
-<!-- CookiePro CCPA Opt-Out Link Start -->
-<a name="view6" href="[[rootPath]]view6" javascript="void(0)" data-ot-ccpa-opt-out="link" style="display:none;">Do Not Sell My Personal Information</a>
-<!-- CookiePro CCPA Opt-Out Link End -->
-
           </iron-selector>
         </app-drawer>
 
@@ -128,7 +124,6 @@ class MyApp extends PolymerElement {
             <my-view3 name="view3"></my-view3>
 <my-view4 name="view4"></my-view4>
 <my-view5 name="view5"></my-view5>
-<my-view6 name="view6"></my-view6>
 
             <my-view404 name="view404"></my-view404>
           </iron-pages>
@@ -160,7 +155,7 @@ class MyApp extends PolymerElement {
     // Show 'view1' in that case. And if the page doesn't exist, show 'view404'.
     if (!page) {
       this.page = 'view1';
-    } else if (['view1', 'view2', 'view3', 'view4', 'view5', 'view6'].indexOf(page) !== -1) {
+    } else if (['view1', 'view2', 'view3', 'view4', 'view5'].indexOf(page) !== -1) {
       this.page = page;
     } else {
       this.page = 'view404';
@@ -192,10 +187,6 @@ case 'view4':
         break;
 case 'view5':
         import('./my-view5.js');
-        break;
-
-case 'view6':
-        import('');
         break;
 
       case 'view404':
