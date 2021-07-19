@@ -111,7 +111,7 @@ class MyApp extends PolymerElement {
                 icon="my-icons:menu"
                 drawer-toggle=""
               ></paper-icon-button>
-              <div main-title="">My App</div>
+              <div main-title="">Legal Documentation</div>
             </app-toolbar>
           </app-header>
 
@@ -119,6 +119,8 @@ class MyApp extends PolymerElement {
             <my-view1 name="view1"></my-view1>
             <my-view2 name="view2"></my-view2>
             <my-view3 name="view3"></my-view3>
+<my-view3 name="view4"></my-view4>
+
             <my-view404 name="view404"></my-view404>
           </iron-pages>
         </app-header-layout>
