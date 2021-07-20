@@ -8,6 +8,13 @@
       "sizes": "192x192",
       "type": "image/png"
     },
+
+{
+      "src": "images/A79C14EE-3736-43C0-B8DB-9DA5C1333635.jpeg",
+      "sizes": "52x52",
+      "type": "image/jpeg"
+    },
+
     {
       "src": "images/manifest/icon-512x512.png",
       "sizes": "512x512",
