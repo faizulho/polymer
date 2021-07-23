@@ -23,10 +23,23 @@ class MyView5 extends PolymerElement {
       </style>
 
       <div class="card">
-<h1>Contact Us</h1>
-<p>Use this form to reach out to us regarding your questions and concerns. You may also use it for reporting purposes.</p>
-<iframe src="https://www.cognitoforms.com/f/YtcYQljz2kStKCpk9voQJw?id=1" style="position:relative;width:1px;min-width:100%;*width:100%;" frameborder="0" scrolling="yes" seamless="seamless" height="1042" width="100%"></iframe>
-<script src="https://www.cognitoforms.com/scripts/embed.js"></script>
+<h1>Data Subject Request</h1>
+<style>
+    .ot-form-wrapper {
+        max-width: 750px;
+        height: 800px;
+        border: 1px solid #c0c2c7;
+        margin: auto;
+    }
+    .ot-form-wrapper iframe {
+        width: 100%;
+        height: 100%;
+        border: none;
+    }
+</style>
+<div class="ot-form-wrapper">
+    <iframe src="https://privacyportal.cookiepro.com/webform/efcf4546-43e3-47c4-aba6-d0b6363a2989/948bf666-fd0d-42ad-b895-668fcef5312c">
+    </iframe>
 </div>
     `;
   }
