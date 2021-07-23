@@ -49,7 +49,7 @@ $_documentContainer.innerHTML = `<dom-module id="shared-styles">
       
       h3 {
         margin: 16px 0;
-        font-size: 18px;
+        font-size: 16px;
       }
       
     </style>
