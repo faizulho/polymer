@@ -32,4 +32,4 @@ class MyView5 extends PolymerElement {
   }
 }
 
-window.customElements.define('my-view5', MyView5);
+window.customElements.define('my-view6', MyView6);
