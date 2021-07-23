@@ -90,7 +90,7 @@ class MyApp extends PolymerElement {
       <app-drawer-layout fullbleed="" narrow="{{narrow}}">
         <!-- Drawer content -->
         <app-drawer id="drawer" slot="drawer" swipe-open="[[narrow]]">
-          <app-toolbar><a href="https://melvinhgf.business.site"><img src = "https://res.cloudinary.com/melvinhgf-net-solutions/image/upload/c_thumb,w_200,g_face/v1474616440/brand-logo-hori.jpg"</img></a></app-toolbar>
+          <app-toolbar><a href="https://melvinhgf.business.site" text-decoration="none"><img src = "https://res.cloudinary.com/melvinhgf-net-solutions/image/upload/c_thumb,w_200,g_face/v1474616440/brand-logo-hori.jpg"</img></a></app-toolbar>
           <iron-selector
             selected="[[page]]"
             attr-for-selected="name"
@@ -103,6 +103,7 @@ class MyApp extends PolymerElement {
 <a name="view4" href="[[rootPath]]view4">Acceptable Use</a>
 <!-- <a name="view5" href="[[rootPath]]view5">Data Subject Request</a> -->
 <a name="dunsellbutton" href="https://privacyportal.cookiepro.com/webform/efcf4546-43e3-47c4-aba6-d0b6363a2989/948bf666-fd0d-42ad-b895-668fcef5312c">Do Not Sell My Data</a>
+<br>
 <a name="view6" href="[[rootPath]]view6">Contact Us</a>
 
 
