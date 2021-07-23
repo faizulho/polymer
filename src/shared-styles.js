@@ -37,7 +37,7 @@ $_documentContainer.innerHTML = `<dom-module id="shared-styles">
 
       h1 {
         margin: 16px 0;
-        color: #212121;
+        color: #288dbf;
         font-size: 22px;
       }
     </style>
