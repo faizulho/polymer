@@ -60,14 +60,13 @@ class MyApp extends PolymerElement {
 
         .drawer-list {
           margin: 0 20px;
-          color: var(--app-primary-color);
         }
 
         .drawer-list a {
           display: block;
           padding: 0 16px;
           text-decoration: none;
-          color: var(--app-secondary-color);
+          color: var(--app-primary-color);
           line-height: 40px;
         }
 
