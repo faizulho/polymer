@@ -101,8 +101,7 @@ class MyApp extends PolymerElement {
             <a name="view2" href="[[rootPath]]view2">Cookie</a>
             <a name="view3" href="[[rootPath]]view3">Terms & Conditions</a>
             <a name="view4" href="[[rootPath]]view4">Acceptable Use</a>
-            <a id="dunsellbutton" name="view5" href="[[rootPath]]view5">Do Not Sell My Data</a> -->
-            <!-- <a name="viewY" href="[[rootPath]]view5">xxxxx</a> -->
+            <a id="dunsellbutton" name="view5" href="[[rootPath]]view5">Do Not Sell My Data</a>
             <br>
             <a id="view6" name="view6" href="[[rootPath]]view6">Contact Us</a>
 
@@ -190,7 +189,7 @@ class MyApp extends PolymerElement {
         import('./my-view4.js');
         break;
       case 'view5':
-        import('https://privacyportal.cookiepro.com/webform/efcf4546-43e3-47c4-aba6-d0b6363a2989/948bf666-fd0d-42ad-b895-668fcef5312c');
+        import('./my-view5.js');
         break;
       case 'view6':
         import('./my-view6.js');
