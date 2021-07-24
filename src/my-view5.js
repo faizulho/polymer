@@ -24,11 +24,11 @@ class MyView5 extends PolymerElement {
 
       <div class="card">
 <h1>Data Subject Request</h1>
+<!-- inframe codes--!>
 <style>
     .ot-form-wrapper {
-        max-width: 750px;
-        height: 800px;
-        border: 1px solid #c0c2c7;
+        max-width: 100%;
+        border: none;
         margin: auto;
     }
     .ot-form-wrapper iframe {
@@ -41,9 +41,10 @@ class MyView5 extends PolymerElement {
     <iframe src="https://privacyportal.cookiepro.com/webform/efcf4546-43e3-47c4-aba6-d0b6363a2989/948bf666-fd0d-42ad-b895-668fcef5312c">
     </iframe>
 </div>
+<!-- inframe --!>
+
     `;
   }
 }
 
 window.customElements.define('my-view5', MyView5);
-
