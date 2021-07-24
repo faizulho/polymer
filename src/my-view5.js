@@ -24,7 +24,7 @@ class MyView5 extends PolymerElement {
 
       <div class="card">
         <h1>Data Subject Request</h1>
-        <iframe src="https://privacyportal.cookiepro.com/webform/efcf4546-43e3-47c4-aba6-d0b6363a2989/948bf666-fd0d-42ad-b895-668fcef5312c" style="position:relative;width:1px;min-width:100%;*width:100%;" frameborder="0" scrolling="yes" seamless="seamless" max-height="auto" width="100%"></iframe>
+        <iframe src="https://privacyportal.cookiepro.com/webform/efcf4546-43e3-47c4-aba6-d0b6363a2989/948bf666-fd0d-42ad-b895-668fcef5312c" style="position:relative;width:1px;min-width:100%;*width:100%;" frameborder="0" scrolling="yes" seamless="seamless" height="1500px" width="100%"></iframe>
       </div>
 
     `;
