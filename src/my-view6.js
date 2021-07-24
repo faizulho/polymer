@@ -24,7 +24,7 @@ class MyView6 extends PolymerElement {
 
       <div class="card">
 <h1>Contact Us</h1>
-<p>Use this form to reach out to us regarding your questions and concerns. For reporting purposes and data subject requests, please use our <a href="my-view5.js">DSAR</a> form.</p>
+<p>Use this form to reach out to us regarding your questions and concerns. For reporting purposes and data subject requests, please use our <a href="./my-view5.js">DSAR</a> form.</p>
 <iframe src="https://www.cognitoforms.com/f/YtcYQljz2kStKCpk9voQJw?id=1" style="position:relative;width:1px;min-width:100%;*width:100%;" frameborder="0" scrolling="yes" seamless="seamless" height="1042" width="100%"></iframe>
 <script src="https://www.cognitoforms.com/scripts/embed.js"></script>
 </div>
