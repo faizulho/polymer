@@ -60,6 +60,7 @@ class MyApp extends PolymerElement {
 
         .drawer-list {
           margin: 0 20px;
+          color: var(--app-primary-color);
         }
 
         .drawer-list a {
@@ -100,11 +101,11 @@ class MyApp extends PolymerElement {
             <a name="view1" href="[[rootPath]]view1">Privacy</a>
             <a name="view2" href="[[rootPath]]view2">Cookie</a>
             <a name="view3" href="[[rootPath]]view3">Terms & Conditions</a>
-<a name="view4" href="[[rootPath]]view4">Acceptable Use</a>
-<!-- <a name="view5" href="[[rootPath]]view5">Data Subject Request</a> -->
-<a name="dunsellbutton" href="https://privacyportal.cookiepro.com/webform/efcf4546-43e3-47c4-aba6-d0b6363a2989/948bf666-fd0d-42ad-b895-668fcef5312c">Do Not Sell My Data</a>
-<br>
-<a name="view6" href="[[rootPath]]view6">Contact Us</a>
+            <a name="view4" href="[[rootPath]]view4">Acceptable Use</a>
+            <!-- <a name="view5" href="[[rootPath]]view5">Data Subject Request</a> -->
+            <a id=" dunsellbutton" name="dunsellbutton" href="https://privacyportal.cookiepro.com/webform/efcf4546-43e3-47c4-aba6-d0b6363a2989/948bf666-fd0d-42ad-b895-668fcef5312c">Do Not Sell My Data</a>
+            <br>
+            <a id="view6" name="view6" href="[[rootPath]]view6">Contact Us</a>
 
 
           </iron-selector>
