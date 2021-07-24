@@ -28,9 +28,8 @@ class MyView5 extends PolymerElement {
 <style>
     .ot-form-wrapper {
         max-width: 100%;
-        height: auto;
+        height: 100%;
         border: none;
-        margin: 0px;
     }
     .ot-form-wrapper iframe {
         width: 100%;
