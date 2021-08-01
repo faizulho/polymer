@@ -51,6 +51,7 @@ $_documentContainer.innerHTML = `<dom-module id="shared-styles">
       
       a {
         color: #288dbf;
+        font-weight: bold;
         text-decoration: none;
       }
       
