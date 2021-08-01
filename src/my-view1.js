@@ -212,7 +212,8 @@ class MyView1 extends PolymerElement {
 <h1>Contact Us</h1>
 <p>If you have any questions about this Privacy Policy, You can contact us:</p>
 <ul>
-<li>By email: support@melvinhgf.freshdesk.com</li>
+<li>By email: <a href="mailto:support@melvinhgf.freshdesk.com" target="_blank">support@melvinhgf.freshdesk.com</a></li>
+<li>By using our form service at <a href="view6">Contact Us</a> page</li>
 </ul>
 </div>
     `;
