@@ -101,8 +101,9 @@ class MyApp extends PolymerElement {
             <a name="view2" href="[[rootPath]]view2">Cookie</a>
             <a name="view3" href="[[rootPath]]view3">Terms & Conditions</a>
             <a name="view4" href="[[rootPath]]view4">Acceptable Use</a>
-            <a name="view4" href="[[rootPath]]view7">End-User Agreement</a>
-            <a name="view4" href="[[rootPath]]view8">Disclaimer</a>
+            <a name="view7" href="[[rootPath]]view7">End-User Agreement</a>
+            <a name="view8" href="[[rootPath]]view8">Refunds</a>
+            <a name="view9" href="[[rootPath]]view9">Disclaimer</a>
             <a id="dunsellbutton" name="view5" href="[[rootPath]]view5">Do Not Sell My Data</a>
             <br>
             <a id="view6" name="view6" href="[[rootPath]]view6">Contact Us</a>
@@ -130,8 +131,9 @@ class MyApp extends PolymerElement {
             <my-view4 name="view4"></my-view4>
             <my-view5 name="view5"></my-view5>
             <my-view6 name="view6"></my-view6>
-            <my-view6 name="view6"></my-view7>
-            <my-view6 name="view6"></my-view8>
+            <my-view7 name="view7"></my-view7>
+            <my-view8 name="view8"></my-view8>
+            <my-view9 name="view8"></my-view9>
             <my-view404 name="view404"></my-view404>
           </iron-pages>
         </app-header-layout>
@@ -162,7 +164,7 @@ class MyApp extends PolymerElement {
     // Show 'view1' in that case. And if the page doesn't exist, show 'view404'.
     if (!page) {
       this.page = 'view1';
-    } else if (['view1', 'view2', 'view3', 'view4', 'view5', 'view6', 'view7', 'view8'].indexOf(page) !== -1) {
+    } else if (['view1', 'view2', 'view3', 'view4', 'view5', 'view6', 'view7', 'view8', 'view9'].indexOf(page) !== -1) {
       this.page = page;
     } else {
       this.page = 'view404';
@@ -201,8 +203,11 @@ class MyApp extends PolymerElement {
       case 'view7':
         import('./my-view7.js');
         break;
-      case 'view6':
+      case 'view8':
         import('./my-view8.js');
+        break;
+      case 'view9':
+        import('./my-view9.js');
         break;
       case 'view404':
         import('./my-view404.js');
