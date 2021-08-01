@@ -9,6 +9,7 @@
  */
 
 import { PolymerElement, html } from '@polymer/polymer/polymer-element.js';
+import './shared-styles.js';
 
 class MyView404 extends PolymerElement {
   static get template() {
