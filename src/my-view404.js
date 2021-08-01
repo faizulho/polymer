@@ -24,7 +24,7 @@ class MyView404 extends PolymerElement {
       </style>
 
       <div class="card">
-      <h1>Error 404 Page</h1>
+      <h1>Error 404</h1>
       <h3>Oops you hit a 404. Head back to <a href="[[rootPath]]">home</a>.</h3>
       </div>
     `;
