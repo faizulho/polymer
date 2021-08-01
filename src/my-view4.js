@@ -92,7 +92,7 @@ class MyView4 extends PolymerElement {
 <p>You acknowledge that you have read this Policy and agree to all its terms and conditions. By accessing and using the Website and Services you agree to be bound by this Policy. If you do not agree to abide by the terms of this Policy, you are not authorized to access or use the Website and Services.</p>
 <h2>Contacting Us</h2>
 <p>If you would like to contact us to understand more about this Policy or wish to contact us concerning any matter relating to it, you may do so via this <a target="_blank" rel="nofollow" href= "https://www.cognitoforms.com/MELVINHGFNETYourOnlineSolutionsProvider/ContactUs">link</a>, Contact Us page or send an email to &#97;b&#117;&#115;&#101;&#64;me&#108;vin&#104;&#103;f.ne&#116;.</p>
-<p>This document was last updated on September 13, 2019</p>
+<p>This document was last updated on September 13, 2019.</p>
       </div>
     `;
   }
