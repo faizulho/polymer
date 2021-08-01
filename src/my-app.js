@@ -129,7 +129,7 @@ class MyApp extends PolymerElement {
             <my-view4 name="view4"></my-view4>
             <my-view7 name="view7"></my-view7>
             <my-view8 name="view8"></my-view8>
-            <my-view9 name="view8"></my-view9>
+            <my-view9 name="view9"></my-view9>
             <my-view5 name="view5"></my-view5>
             <my-view6 name="view6"></my-view6>
             <my-view404 name="view404"></my-view404>
