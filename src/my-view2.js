@@ -45,8 +45,8 @@ class MyView2 extends PolymerElement {
 <h2>Acceptance of this policy</h2>
 <p>You acknowledge that you have read this Policy and agree to all its terms and conditions. By accessing and using the Website and Services you agree to be bound by this Policy. If you do not agree to abide by the terms of this Policy, you are not authorized to access or use the Website and Services.</p>
 <h2>Contacting us</h2>
-<p>If you have any questions about this Policy, please contact us at support@melvinhgf.freshdesk.com.</p>
-<p>This document was last updated on April 3, 2019</p>
+<p>If you have any questions about this Policy, please contact us at <a href="mailto:support@melvinhgf.freshdesk.com">support@melvinhgf.freshdesk.com</a>.</p>
+<p>This document was last updated on April 3, 2019.</p>
        
          <!-- Cookie Consent by https://www.TermsFeed.com -->
 <script type="text/javascript" src="//www.termsfeed.com/public/cookie-consent/4.0.0/cookie-consent.js" charset="UTF-8"></script>
