@@ -21,7 +21,8 @@ class MyView7 extends PolymerElement {
         }
       </style>
       <div class="card">
-        <h1>End-User License Agreement (EULA) of <span class="app_name">Apps and Softwares by MELVINHGF.NET : Your Online Solutions Provider</span></h1>
+        <h1>End-User License Agreement (EULA)</h1>
+        <h2>EULA of <span class="app_name">Apps and Softwares by MELVINHGF.NET : Your Online Solutions Provider</span></h2>
 
 <p>This End-User License Agreement ("EULA") is a legal agreement between you and <span class="company_name">MELVINHGF.NET: Your Online Solutions Provider</span>.</p>
 
@@ -35,7 +36,7 @@ class MyView7 extends PolymerElement {
 
 <p>This EULA agreement shall apply only to the Software supplied by <span class="company_name">MELVINHGF.NET: Your Online Solutions Provider</span> herewith regardless of whether other apps and software are referred to or described herein. The terms also apply to any <span class="company_name">MELVINHGF.NET: Your Online Solutions Provider</span> updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply.</p>
 
-<h3>License Grant</h3>
+<h2>License Grant</h2>
 
 <p><span class="company_name">MELVINHGF.NET: Your Online Solutions Provider</span> hereby grants you a personal, non-transferable, non-exclusive licence to use the <span class="app_name">MELVINHGF.NET : Your Online Solutions Provider's</span> apps and softwares on your devices in accordance with the terms of this EULA agreement.</p>
 
@@ -51,19 +52,19 @@ class MyView7 extends PolymerElement {
 <li>use the Software for any purpose that <span class="company_name">MELVINHGF.NET: Your Online Solutions Provider</span> considers is a breach of this EULA agreement</li>
 </ul>
 
-<h3>Intellectual Property and Ownership</h3>
+<h2>Intellectual Property and Ownership</h2>
 
 <p><span class="company_name">MELVINHGF.NET: Your Online Solutions Provider</span> shall at all times retain ownership of the Software as originally downloaded by you and all subsequent downloads of the Software by you. The Software (and the copyright, and other intellectual property rights of whatever nature in the Software, including any modifications made thereto) are and shall remain the property of <span class="company_name">MELVINHGF.NET: Your Online Solutions Provider</span>.</p>
 
 <p><span class="company_name">MELVINHGF.NET: Your Online Solutions Provider</span> reserves the right to grant licences to use the Software to third parties.</p>
 
-<h3>Termination</h3>
+<h2>Termination</h2>
 
 <p>This EULA agreement is effective from the date you first use the Software and shall continue until terminated. You may terminate it at any time upon written notice to <span class="company_name">MELVINHGF.NET: Your Online Solutions Provider</span>.</p>
 
 <p>It will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software. The provisions that by their nature continue and survive will survive any termination of this EULA agreement.</p>
 
-<h3>Governing Law</h3>
+<h2>Governing Law</h2>
 
 <p>This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of <span class="country">Singapore</span>.</p>
       </div>
