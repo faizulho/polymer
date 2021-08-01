@@ -58,13 +58,13 @@ class MyApp extends PolymerElement {
           --paper-icon-button-ink-color: white;
         }
 
-        app-header a {
+        app-header .a {
           text-decoration: none;
           color: #fff;
           font-weight: bold;
         }
         
-        app-header a.selected {
+        app-header .a.selected {
           text-decoration: none;
           color: #fff;
           font-weight: bold;
@@ -130,7 +130,7 @@ class MyApp extends PolymerElement {
                 icon="my-icons:menu"
                 drawer-toggle=""
               ></paper-icon-button>
-              <div main-title=""><a href="/index.html" >LEGAL DOCUMENTATIONS</a></div>
+              <div main-title=""><a href="/index.html" >LEGAL DOCUMENTATION</a></div>
             </app-toolbar>
           </app-header>
 
