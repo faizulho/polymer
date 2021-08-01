@@ -107,8 +107,6 @@ class MyApp extends PolymerElement {
             <a id="dunsellbutton" name="view5" href="[[rootPath]]view5">Do Not Sell My Data</a>
             <br>
             <a id="view6" name="view6" href="[[rootPath]]view6">Contact Us</a>
-
-
           </iron-selector>
         </app-drawer>
 
@@ -129,11 +127,11 @@ class MyApp extends PolymerElement {
             <my-view2 name="view2"></my-view2>
             <my-view3 name="view3"></my-view3>
             <my-view4 name="view4"></my-view4>
-            <my-view5 name="view5"></my-view5>
-            <my-view6 name="view6"></my-view6>
             <my-view7 name="view7"></my-view7>
             <my-view8 name="view8"></my-view8>
             <my-view9 name="view8"></my-view9>
+            <my-view5 name="view5"></my-view5>
+            <my-view6 name="view6"></my-view6>
             <my-view404 name="view404"></my-view404>
           </iron-pages>
         </app-header-layout>
