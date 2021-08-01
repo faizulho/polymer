@@ -72,4 +72,3 @@ class MyView7 extends PolymerElement {
 }
 
 window.customElements.define('my-view7', MyView7);
-7
