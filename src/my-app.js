@@ -124,7 +124,7 @@ class MyApp extends PolymerElement {
                 icon="my-icons:menu"
                 drawer-toggle=""
               ></paper-icon-button>
-              <div main-title=""><a href="view1" text-decoration="none" font-weight="bold">LEGAL DOCUMENTATION</a></div>
+              <div main-title=""><a href="[[rootPath]]" text-decoration="none" font-weight="bold">LEGAL DOCUMENTATION</a></div>
             </app-toolbar>
           </app-header>
 
