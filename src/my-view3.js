@@ -75,7 +75,7 @@ class MyView3 extends PolymerElement {
 <p>You acknowledge that you have read this Agreement and agree to all its terms and conditions.</p>
 <p>By accessing and using the Website and Services you agree to be bound by this Agreement. If you do not agree to abide by the terms of this Agreement, you are not authorized to access or use the Website and Services.</p>
 <h2>Contacting Us</h2>
-<p>If you would like to contact us to understand more about this Agreement or wish to contact us concerning any matter relating to it, you may send an email to &#97;d&#109;&#105;&#110;&#64;mel&#118;&#105;n&#104;&#103;&#102;.&#110;&#101;&#116;.</p>
+<p>If you would like to contact us to understand more about this Agreement or wish to contact us concerning any matter relating to it, you may send an email to <a href="mailto:support@melvinhgf.freshdesk.com">support@melvinhgf.freshdesk.com</a> or &#97;d&#109;&#105;&#110;&#64;mel&#118;&#105;n&#104;&#103;&#102;.&#110;&#101;&#116;. You may also use our <a href="view6">Contact Us</a> page to reach out to us.</p>
 <p>This document was last updated on April 14, 2021</p>
       </div>
     `;
