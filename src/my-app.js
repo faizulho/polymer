@@ -63,13 +63,7 @@ class MyApp extends PolymerElement {
           color: #fff;
           font-weight: bold;
         }
-        
-        app-header a.selected {
-          text-decoration: none;
-          color: #fff;
-          font-weight: bold;
-        }
-        
+      
         .drawer-list {
           margin: 0 20px;
         }
@@ -130,7 +124,7 @@ class MyApp extends PolymerElement {
                 icon="my-icons:menu"
                 drawer-toggle=""
               ></paper-icon-button>
-              <div main-title=""><a href="https://docs.melvinhgf.net" >LEGAL DOCUMENTATION</a></div>
+              <div main-title=""><a href="view1" text-decoration="none" font-weight="bold">LEGAL DOCUMENTATION</a></div>
             </app-toolbar>
           </app-header>
 
