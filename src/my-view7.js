@@ -40,7 +40,7 @@ class MyView7 extends PolymerElement {
 
 <p><span class="company_name">MELVINHGF.NET: Your Online Solutions Provider</span> hereby grants you a personal, non-transferable, non-exclusive licence to use the <span class="app_name">MELVINHGF.NET : Your Online Solutions Provider's</span> apps and softwares on your devices in accordance with the terms of this EULA agreement.</p>
 
-<p>You are permitted to load the Software (for example a PC, laptop, mobile or tablet) under your control. You are responsible for ensuring your device meets the minimum requirements of the apps and softwares of <span class="app_name">MELVINHGF.NET : Your Online Solutions Provider Apps</span>.</p>
+<p>You are permitted to load the Software (for example a PC, laptop, mobile or tablet) under your control. You are responsible for ensuring your device meets the minimum requirements of the apps and softwares of <span class="app_name">MELVINHGF.NET : Your Online Solutions Provider</span>.</p>
 
 <p>You are not permitted to:</p>
 
@@ -67,6 +67,7 @@ class MyView7 extends PolymerElement {
 <h2>Governing Law</h2>
 
 <p>This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of <span class="country">Singapore</span>.</p>
+<p>This document was last updated on August 1, 2021.</p>
       </div>
     `;
   }
