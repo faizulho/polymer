@@ -21,6 +21,16 @@ class MyView2 extends PolymerElement {
           padding: 10px;
         }
       </style>
+<!-- Cookie Consent by https://www.TermsFeed.com -->
+<script type="text/javascript" src="//www.termsfeed.com/public/cookie-consent/4.0.0/cookie-consent.js" charset="UTF-8"></script>
+<script type="text/javascript" charset="UTF-8">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({"notice_banner_type":"headline","consent_type":"express","palette":"light","language":"en","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":false,"preferences_center_close_button_hide":false,"website_name":"MELVINHGF.NET: Your Online Solutions Provider","website_privacy_policy_url":"https://www.termsfeed.com/live/dfff3e93-4e85-4b8d-9aa4-e6658c9b1c5d"});
+});
+</script>
+
+<noscript>Cookie Consent by <a href="https://www.TermsFeed.com/" rel="nofollow noopener">TermsFeed</a></noscript>
+<!-- End Cookie Consent -->
 
       <div class="card">
         <h1>Cookie Policy</h1>
