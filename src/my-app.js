@@ -58,7 +58,7 @@ class MyApp extends PolymerElement {
           --paper-icon-button-ink-color: white;
         }
 
-        app-header app-toolbar .a {
+        app-header app-toolbar a {
           text-decoration: none;
           color: #fff;
           font-weight: bold;
@@ -124,7 +124,7 @@ class MyApp extends PolymerElement {
                 icon="my-icons:menu"
                 drawer-toggle=""
               ></paper-icon-button>
-              <div main-title=""><a href="[[rootPath]]" text-decoration="none" font-weight="bold">LEGAL DOCUMENTATION</a></div>
+              <div main-title="Legal"><a href="[[rootPath]]" text-decoration="none" font-weight="bold">LEGAL DOCUMENTATION</a></div>
             </app-toolbar>
           </app-header>
 
