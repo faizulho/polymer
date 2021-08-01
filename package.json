@@ -23,11 +23,11 @@
     "@polymer/iron-selector": "^3.0.0-pre.15",
     "@polymer/paper-icon-button": "^3.0.0-pre.15",
     "@polymer/polymer": "^3.0.0",
-    "@webcomponents/webcomponentsjs": "^2.0.0"
+    "@webcomponents/webcomponentsjs": "2.5.0"
   },
   "devDependencies": {
-    "polymer-cli": "^1.7.1",
-    "wct-browser-legacy": "^1.0.0"
+    "polymer-cli": "1.9.11",
+    "wct-browser-legacy": "1.0.2"
   },
   "engines": {
     "node": "14.x"
