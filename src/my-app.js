@@ -58,6 +58,18 @@ class MyApp extends PolymerElement {
           --paper-icon-button-ink-color: white;
         }
 
+        app-header a {
+          text-decoration: none;
+          color: #fff;
+          font-weight: bold;
+        }
+        
+        app-header a.selected {
+          text-decoration: none;
+          color: #fff;
+          font-weight: bold;
+        }
+        
         .drawer-list {
           margin: 0 20px;
         }
@@ -90,7 +102,7 @@ class MyApp extends PolymerElement {
       <app-drawer-layout fullbleed="" narrow="{{narrow}}">
         <!-- Drawer content -->
         <app-drawer id="drawer" slot="drawer" swipe-open="[[narrow]]">
-          <app-toolbar><a href="https://melvinhgf.business.site" text-decoration="none"><img src = "https://res.cloudinary.com/melvinhgf-net-solutions/image/upload/c_thumb,w_200,g_face/v1474616440/brand-logo-hori.jpg"</img></a></app-toolbar>
+          <app-toolbar><a href="https://melvinhgf.business.site" target="_blank" text-decoration="none"><img src = "https://res.cloudinary.com/melvinhgf-net-solutions/image/upload/c_thumb,w_200,g_face/v1474616440/brand-logo-hori.jpg"</img></a></app-toolbar>
           <iron-selector
             selected="[[page]]"
             attr-for-selected="name"
