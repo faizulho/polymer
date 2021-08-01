@@ -66,13 +66,13 @@ class MyView8 extends PolymerElement {
 <li>The physical Goods were purchased in the last 14 days</li>
 <li>The physical Goods are in the original packaging</li>
 </ul>
-<p>The following Goods **cannot** be returned:</p>
+<p>The following Goods <b>cannot</b> be returned:</p>
 <ul>
 <li>The supply of Goods made to Your specifications or clearly personalized.</li>
 <li>The supply of Goods which according to their nature are not suitable to be returned, deteriorate rapidly or where the date of expiry is over.</li>
 <li>The supply of Goods which are not suitable for return due to health protection or hygiene reasons and were unsealed after delivery.</li>
 <li>The supply of Goods which are, after delivery, according to their nature, inseparably mixed with other items.</li>
-<li>The supply of Goods which are, **digital**, either already downloaded or sold to You or Your appointed agents and users.</li>
+<li>The supply of Goods which are, <b>digital</b>, either already sold to or downloaded by You or Your appointed agents and users.</li>
 </ul>
 <p>We reserve the right to refuse returns of any merchandise that does not meet the above return conditions in our sole discretion.</p>
 <p>Only regular priced Goods may be refunded. Unfortunately, Goods on sale cannot be refunded. This exclusion may not apply to You if it is not permitted by applicable law.</p>
