@@ -51,6 +51,7 @@ $_documentContainer.innerHTML = `<dom-module id="shared-styles">
       
       a {
         color: #288dbf;
+        text-decoration: none;
       }
       
       a .selected {
