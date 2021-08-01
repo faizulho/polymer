@@ -56,8 +56,8 @@ class MyView8 extends PolymerElement {
 <p>The deadline for cancelling an Order is 14 days from the date on which You received the Goods or on which a third party you have appointed, who is not the carrier, takes possession of the product delivered.</p>
 <p>In order to exercise Your right of cancellation, You must inform Us of your decision by means of a clear statement. You can inform us of your decision by:</p>
 <ul>
-<li>Email: [support@melvinhgf.freshdesk.com](mailto:support@melvinhgf.freshdesk.com)</li>
-<li>[Contact Us](https://docs.melvinhgf.net/view6) page</li>
+<li>Email: <a href="mailto:support@melvinhgf.freshdesk.com" rel="external nofollow noopener" target="_blank">support@melvinhgf.freshdesk.com</a></li>
+<li><a href="view6">Contact Us</a> page</li>
 </ul>
 <p>We will reimburse You no later than 14 days from the day on which We receive the returned Goods. We will use the same means of payment as You used for the Order, and You will not incur any fees for such reimbursement.</p>
 <h2>Conditions for Returns</h2>
@@ -86,8 +86,8 @@ class MyView8 extends PolymerElement {
 <h2>Contact Us</h2>
 <p>If you have any questions about our Returns and Refunds Policy, please contact us:</p>
 <ul>
-<li>By email: [support@melvinhgf.freshdesk.com](mailto:support@melvinhgf.freshdesk.com)</li>
-<li>[Contact Us](https://docs.melvinhgf.net/view6) page</li>
+<li>by email: <a href="mailto:support@melvinhgf.freshdesk.com" rel="external nofollow noopener" target="_blank">support@melvinhgf.freshdesk.com</a></li>
+<li>by using <a href="view6">Contact Us</a> page</li>
 </ul>
       </div>
     `;
