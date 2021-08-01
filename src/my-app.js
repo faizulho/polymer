@@ -58,7 +58,7 @@ class MyApp extends PolymerElement {
           --paper-icon-button-ink-color: white;
         }
 
-        app-header a {
+        app-header app-toolbar a {
           text-decoration: none;
           color: #fff;
           font-weight: bold;
