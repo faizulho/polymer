@@ -25,7 +25,7 @@ class MyView2 extends PolymerElement {
 <script type="text/javascript" src="//www.termsfeed.com/public/cookie-consent/4.0.0/cookie-consent.js" charset="UTF-8"></script>
 <script type="text/javascript" charset="UTF-8">
 document.addEventListener('DOMContentLoaded', function () {
-cookieconsent.run({"notice_banner_type":"interstitial","consent_type":"express","palette":"light","language":"en","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":false,"preferences_center_close_button_hide":false,"website_name":"MELVINHGF.NET: Your Online Solutions Provider","website_privacy_policy_url":"https://docs.melvinhgf.net/view1","open_preferences_center_selector":"#open_preferences_center"});
+cookieconsent.run({"notice_banner_type":"interstitial","consent_type":"express","palette":"light","language":"en","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":true,"preferences_center_close_button_hide":false,"website_name":"MELVINHGF.NET: Your Online Solutions Provider","website_privacy_policy_url":"https://docs.melvinhgf.net/view1","open_preferences_center_selector":"#open_preferences_center"});
 });
 </script>
 
