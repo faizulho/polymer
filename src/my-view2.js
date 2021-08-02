@@ -25,7 +25,7 @@ class MyView2 extends PolymerElement {
 <script type="text/javascript" src="//www.termsfeed.com/public/cookie-consent/4.0.0/cookie-consent.js" charset="UTF-8"></script>
 <script type="text/javascript" charset="UTF-8">
 document.addEventListener('DOMContentLoaded', function () {
-cookieconsent.run({"notice_banner_type":"interstitial","consent_type":"express","palette":"light","language":"en","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":true,"preferences_center_close_button_hide":false,"website_name":"MELVINHGF.NET: Your Online Solutions Provider","website_privacy_policy_url":"https://docs.melvinhgf.net/view1","open_preferences_center_selector":"#open_preferences_center"});
+cookieconsent.run({"notice_banner_type":"interstitial","consent_type":"express","palette":"light","language":"en","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":true,"preferences_center_close_button_hide":false,"website_name":"MELVINHGF.NET: Your Online Solutions Provider","website_privacy_policy_url":"https://docs.melvinhgf.net/view1","open_preferences_center_selector":"#opc"});
 });
 </script>
 
@@ -50,7 +50,7 @@ cookieconsent.run({"notice_banner_type":"interstitial","consent_type":"express",
 <p>These cookies are also used for event tracking and remarketing purposes. Any data collected with these tags will be used in accordance with our and social networks’ privacy policies. We will not collect or share any personally identifiable information from the user.</p>
 <h2>What Are Your Cookie Options?</h2>
 <p>If you don’t like the idea of cookies or certain types of cookies, you can change your browser’s settings to delete cookies that have already been set and to not accept new cookies. Visit <a target="_blank" href="https://www.internetcookies.com" rel="noopener">internetcookies.com</a> to learn more about how to do this.</p>
-<p>Click <a href="#open_preferences_center" id="open_preferences_center">here</a> to change your cookie preference.</p>
+<p>Click <a href="#open_preferences_center" id="opc">here</a> to change your cookie preference.</p>
 <h2>Changes and Amendments</h2>
 <p>We reserve the right to modify this Policy or its terms relating to the Website and Services at any time, effective upon posting of an updated version of this Policy on the Website. When we do, we will post a notification on the main page of the Website. Continued use of the Website and Services after any such changes shall constitute your consent to such changes.</p>
 <h2>Acceptance of This Policy</h2>
