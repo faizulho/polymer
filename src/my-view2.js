@@ -11,6 +11,19 @@
 import { PolymerElement, html } from '@polymer/polymer/polymer-element.js';
 import './shared-styles.js';
 
+import { ConsentGate, ConfirmicProvider } from '@confirmic/react'
+
+const MyApp = () => (
+  <ConfirmicProvider projectId="prj:d46b0d1c-4b4c-43b7-af61-c1dd1ec9a916">
+    <>
+      <ConsentGate micropolicy="my-policy">
+        <MaybeBlockedComponent />
+      </ConsentGate>
+      <OtherComponent>
+    </>
+  </ConfirmicProvider>
+)
+
 class MyView2 extends PolymerElement {
   static get template() {
     return html`
@@ -22,16 +35,6 @@ class MyView2 extends PolymerElement {
         }
       </style>
   
-  <!-- Cookie Consent by https://www.TermsFeed.com -->
-<script type="text/javascript" src="//www.termsfeed.com/public/cookie-consent/4.0.0/cookie-consent.js" charset="UTF-8"></script>
-<script type="text/javascript" charset="UTF-8">
-document.addEventListener('DOMContentLoaded', function () {
-cookieconsent.run({"notice_banner_type":"interstitial","consent_type":"express","palette":"dark","language":"en","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":false,"preferences_center_close_button_hide":false,"website_privacy_policy_url":"https://docs.melvinhgf.net/view1","website_name":"MELVINHGF.NET: Your Online Solutions Provider","open_preferences_center_selector":"#open_preferences_center_1"});
-});
-</script>
-
-<noscript>Cookie Consent by <a href="https://www.TermsFeed.com/" rel="nofollow noopener">TermsFeed Generator</a></noscript>
-<!-- End Cookie Consent -->
       <div class="card">
         <h1>Cookie Policy</h1>
 <p>This cookie policy (&quot;Policy&quot;) describes what cookies are and how and they&#039;re being used by <a target="_blank" rel="nofollow" href="https://melvinhgf.business.site">our</a> website (&quot;Website&quot; or &quot;Service&quot;) and any of our related products and services (collectively, &quot;Services&quot;). This Policy is a legally binding agreement between you (&quot;User&quot;, &quot;you&quot; or &quot;your&quot;) and this Website operator (&quot;Operator&quot;, &quot;we&quot;, &quot;us&quot; or &quot;our&quot;). You should read this Policy so you can understand the types of cookies we use, the information we collect using cookies and how that information is used. It also describes the choices available to you regarding accepting or declining the use of cookies. For further information on how we use, store and keep your personal data secure, see our <a href="https://docs.melvinhgf.net/view1">Privacy Policies</a>.</p>
@@ -50,7 +53,7 @@ cookieconsent.run({"notice_banner_type":"interstitial","consent_type":"express",
 <p>These cookies are also used for event tracking and remarketing purposes. Any data collected with these tags will be used in accordance with our and social networks’ privacy policies. We will not collect or share any personally identifiable information from the user.</p>
 <h2>What Are Your Cookie Options?</h2>
 <p>If you don’t like the idea of cookies or certain types of cookies, you can change your browser’s settings to delete cookies that have already been set and to not accept new cookies. Visit <a target="_blank" href="https://www.internetcookies.com" rel="noopener">internetcookies.com</a> to learn more about how to do this.</p>
-<p>Click <a href="javascript:window.Confirmic('ConsentManager:show')">here</a> to manage cookies</p>
+<p>Click <a href="javascript:window.Confirmic('ConsentManager:show')">here</a> to manage cookies.</p>
 <h2>Changes and Amendments</h2>
 <p>We reserve the right to modify this Policy or its terms relating to the Website and Services at any time, effective upon posting of an updated version of this Policy on the Website. When we do, we will post a notification on the main page of the Website. Continued use of the Website and Services after any such changes shall constitute your consent to such changes.</p>
 <h2>Acceptance of This Policy</h2>
