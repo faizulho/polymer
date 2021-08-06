@@ -21,17 +21,7 @@ class MyView2 extends PolymerElement {
           padding: 10px;
         }
       </style>
-<!-- Cookie Consent by https://www.TermsFeed.com -->
-<script type="text/javascript" src="//www.termsfeed.com/public/cookie-consent/4.0.0/cookie-consent.js" charset="UTF-8"></script>
-<script type="text/javascript" charset="UTF-8">
-document.addEventListener('DOMContentLoaded', function () {
-cookieconsent.run({"notice_banner_type":"interstitial","consent_type":"express","palette":"light","language":"en","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":false,"preferences_center_close_button_hide":false,"website_name":"MELVINHGF.NET: Your Online Solutions Provider","website_privacy_policy_url":"https://docs.melvinhgf.net/view1","open_preferences_center_selector":"#open_preferences_center_1"});
-});
-</script>
-
-<noscript>MELVINHGF.NET Solutions Cookie Consent by <a href="https://www.TermsFeed.com/" rel="nofollow noopener">TermsFeed</a></noscript>
-<!-- End Cookie Consent -->
-
+      
       <div class="card">
         <h1>Cookie Policy</h1>
 <p>This cookie policy (&quot;Policy&quot;) describes what cookies are and how and they&#039;re being used by <a target="_blank" rel="nofollow" href="https://melvinhgf.business.site">our</a> website (&quot;Website&quot; or &quot;Service&quot;) and any of our related products and services (collectively, &quot;Services&quot;). This Policy is a legally binding agreement between you (&quot;User&quot;, &quot;you&quot; or &quot;your&quot;) and this Website operator (&quot;Operator&quot;, &quot;we&quot;, &quot;us&quot; or &quot;our&quot;). You should read this Policy so you can understand the types of cookies we use, the information we collect using cookies and how that information is used. It also describes the choices available to you regarding accepting or declining the use of cookies. For further information on how we use, store and keep your personal data secure, see our <a href="https://docs.melvinhgf.net/view1">Privacy Policies</a>.</p>
@@ -45,7 +35,7 @@ cookieconsent.run({"notice_banner_type":"interstitial","consent_type":"express",
 <p>Necessary cookies allow us to offer you the best possible experience when accessing and navigating through our Website and using its features. For example, these cookies let us recognize that you have created an account and have logged into that account to access the content.</p>
 <h3>Analytical Cookies</h3>
 <p>These cookies enable us and third party services to collect aggregated data for statistical purposes on how our visitors use the Website. These cookies do not contain personal information such as names and email addresses and are used to help us improve your user experience of the Website.</p>
-<h3>Social media Cookies</h3>
+<h3>Social Media Cookies</h3>
 <p>Third party cookies from social media sites (such as Facebook, Twitter, etc) let us track social network users when they visit or use the Website and Services, or share content, by using a tagging mechanism provided by those social networks.</p>
 <p>These cookies are also used for event tracking and remarketing purposes. Any data collected with these tags will be used in accordance with our and social networks’ privacy policies. We will not collect or share any personally identifiable information from the user.</p>
 <h2>What Are Your Cookie Options?</h2>
