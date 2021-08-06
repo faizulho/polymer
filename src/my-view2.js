@@ -11,19 +11,6 @@
 import { PolymerElement, html } from '@polymer/polymer/polymer-element.js';
 import './shared-styles.js';
 
-import { ConsentGate, ConfirmicProvider } from '@confirmic/react'
-
-const MyApp = () => (
-  <ConfirmicProvider projectId="prj:d46b0d1c-4b4c-43b7-af61-c1dd1ec9a916">
-    <>
-      <ConsentGate micropolicy="my-policy">
-        <MaybeBlockedComponent />
-      </ConsentGate>
-      <OtherComponent>
-    </>
-  </ConfirmicProvider>
-)
-
 class MyView2 extends PolymerElement {
   static get template() {
     return html`
