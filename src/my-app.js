@@ -26,10 +26,15 @@ import '@polymer/iron-selector/iron-selector.js';
 import '@polymer/paper-icon-button/paper-icon-button.js';
 import './my-icons.js';
 
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KDFDJCV"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+import { ConsentGate, ConfirmicProvider } from '@confirmic/react'
+const MyApp = () => (
+  <ConfirmicProvider projectId="prj:d46b0d1c-4b4c-43b7-af61-c1dd1ec9a916"> <>
+      <ConsentGate micropolicy="my-policy">
+        <MaybeBlockedComponent />
+      </ConsentGate>
+      <OtherComponent></OtherComponent>
+  </ConfirmicProvider>
+)
   
 // Gesture events like tap and track generated from touch will not be
 // preventable, allowing for better scrolling performance.
