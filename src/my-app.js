@@ -37,13 +37,13 @@ setPassiveTouchGestures(true);
 setRootPath(MyAppGlobals.rootPath);
 
 const MyApp = () => (
-      <ConfirmicProvider projectId="prj:d46b0d1c-4b4c-43b7-af61-c1dd1ec9a916"> <>
-      <ConsentGate micropolicy="my-policy">
-        <MaybeBlockedComponent />
-      </ConsentGate>
-      <OtherComponent></OtherComponent>
-  </ConfirmicProvider>
-)
+      <ConfirmicProvider projectId="prj:d46b0d1c-4b4c-43b7-af61-c1dd1ec9a916">
+        <ConsentGate micropolicy="my-policy">
+          <MaybeBlockedComponent />
+        </ConsentGate>
+        <OtherComponent></OtherComponent>
+      </ConfirmicProvider>
+);
 
 class MyApp extends PolymerElement {
   static get template() {
