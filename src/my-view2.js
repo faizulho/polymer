@@ -21,7 +21,12 @@ class MyView2 extends PolymerElement {
           padding: 10px;
         }
       </style>
-  
+ 
+ <!-- Cookie Consent by https://www.Confirmic.com -->
+    <script src="https://config.confirmic.com/config.js?id=prj:d46b0d1c-4b4c-43b7-af61-c1dd1ec9a916" crossorigin charset="utf-8"></script>
+    <script src="https://consent-manager.confirmic.com/embed.js" crossorigin charset="utf-8"></script>
+   <!-- End Cookie Consent -->
+
       <div class="card">
         <h1>Cookie Policy</h1>
 <p>This cookie policy (&quot;Policy&quot;) describes what cookies are and how and they&#039;re being used by <a target="_blank" rel="nofollow" href="https://melvinhgf.business.site">our</a> website (&quot;Website&quot; or &quot;Service&quot;) and any of our related products and services (collectively, &quot;Services&quot;). This Policy is a legally binding agreement between you (&quot;User&quot;, &quot;you&quot; or &quot;your&quot;) and this Website operator (&quot;Operator&quot;, &quot;we&quot;, &quot;us&quot; or &quot;our&quot;). You should read this Policy so you can understand the types of cookies we use, the information we collect using cookies and how that information is used. It also describes the choices available to you regarding accepting or declining the use of cookies. For further information on how we use, store and keep your personal data secure, see our <a href="https://docs.melvinhgf.net/view1">Privacy Policies</a>.</p>
