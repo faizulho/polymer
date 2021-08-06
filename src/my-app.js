@@ -26,8 +26,6 @@ import '@polymer/iron-selector/iron-selector.js';
 import '@polymer/paper-icon-button/paper-icon-button.js';
 import './my-icons.js';
 
-import { ConsentGate, ConfirmicProvider } from '@confirmic/react'
-  
 // Gesture events like tap and track generated from touch will not be
 // preventable, allowing for better scrolling performance.
 setPassiveTouchGestures(true);
@@ -36,23 +34,9 @@ setPassiveTouchGestures(true);
 // in `index.html`.
 setRootPath(MyAppGlobals.rootPath);
 
-const MyApp = () => (
-      <ConfirmicProvider projectId="prj:d46b0d1c-4b4c-43b7-af61-c1dd1ec9a916">
-        <ConsentGate micropolicy="my-policy">
-          <MaybeBlockedComponent />
-        </ConsentGate>
-        <OtherComponent></OtherComponent>
-      </ConfirmicProvider>
-);
-
 class MyApp extends PolymerElement {
   static get template() {
     return html`
-      
-      <!-- Google Tag Manager (noscript) -->
-      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KDFDJCV" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-      <!-- End Google Tag Manager (noscript) -->
-      
       <style>
         :host {
           --app-primary-color: #288dbf;
