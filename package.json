@@ -23,7 +23,7 @@
     "@polymer/iron-selector": "3.0.1",
     "@polymer/paper-icon-button": "3.0.2",
     "@polymer/polymer": "3.4.1",
-    "@webcomponents/webcomponentsjs": "^2.2.10"
+    "@webcomponents/webcomponentsjs": "^2.2.10",
     "@webcomponents/shadycss": "^1.9.1"
   },
   "devDependencies": {
