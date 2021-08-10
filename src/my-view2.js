@@ -22,10 +22,12 @@ class MyView2 extends PolymerElement {
         }
       </style>
  
- <!-- Cookie Consent by https://www.Confirmic.com -->
-    <script src="https://config.confirmic.com/config.js?id=prj:d46b0d1c-4b4c-43b7-af61-c1dd1ec9a916" crossorigin charset="utf-8"></script>
-    <script src="https://consent-manager.confirmic.com/embed.js" crossorigin charset="utf-8"></script>
-   <!-- End Cookie Consent -->
+ <!-- OneTrust Cookies Consent Notice start for docs.melvinhgf.net -->
+<script src="https://cdn.cookielaw.org/consent/e1f0ce79-eddf-4654-8768-7dc6124138a9/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" data-domain-script="e1f0ce79-eddf-4654-8768-7dc6124138a9" ></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end for docs.melvinhgf.net -->
 
       <div class="card">
         <h1>Cookie Policy</h1>
