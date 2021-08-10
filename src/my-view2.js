@@ -22,14 +22,15 @@ class MyView2 extends PolymerElement {
         }
       </style>
  
- <!-- OneTrust Cookies Consent Notice start for docs.melvinhgf.net -->
-<script src="https://cdn.cookielaw.org/consent/e1f0ce79-eddf-4654-8768-7dc6124138a9/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" data-domain-script="e1f0ce79-eddf-4654-8768-7dc6124138a9" ></script>
+<!-- OneTrust Cookies Consent Notice start for docs.melvinhgf.net -->
+<script type="text/javascript" src="https://cdn.cookielaw.org/consent/e1f0ce79-eddf-4654-8768-7dc6124138a9/OtAutoBlock.js" ></script>
+<script src="https://cdn.cookielaw.org/consent/e1f0ce79-eddf-4654-8768-7dc6124138a9/otSDKStub.js" data-language="en" type="text/javascript" charset="UTF-8" data-domain-script="e1f0ce79-eddf-4654-8768-7dc6124138a9" ></script>
 <script type="text/javascript">
 function OptanonWrapper() { }
 </script>
 <!-- OneTrust Cookies Consent Notice end for docs.melvinhgf.net -->
-
-      <div class="card">
+     
+ <div class="card">
         <h1>Cookie Policy</h1>
 <p>This cookie policy (&quot;Policy&quot;) describes what cookies are and how and they&#039;re being used by <a target="_blank" rel="nofollow" href="https://melvinhgf.business.site">our</a> website (&quot;Website&quot; or &quot;Service&quot;) and any of our related products and services (collectively, &quot;Services&quot;). This Policy is a legally binding agreement between you (&quot;User&quot;, &quot;you&quot; or &quot;your&quot;) and this Website operator (&quot;Operator&quot;, &quot;we&quot;, &quot;us&quot; or &quot;our&quot;). You should read this Policy so you can understand the types of cookies we use, the information we collect using cookies and how that information is used. It also describes the choices available to you regarding accepting or declining the use of cookies. For further information on how we use, store and keep your personal data secure, see our <a href="https://docs.melvinhgf.net/view1">Privacy Policies</a>.</p>
 <h2>What Are Cookies?</h2>
@@ -47,9 +48,6 @@ function OptanonWrapper() { }
 <p>These cookies are also used for event tracking and remarketing purposes. Any data collected with these tags will be used in accordance with our and social networks’ privacy policies. We will not collect or share any personally identifiable information from the user.</p>
 <h2>What Are Your Cookie Options?</h2>
 <p>If you don’t like the idea of cookies or certain types of cookies, you can change your browser’s settings to delete cookies that have already been set and to not accept new cookies. Visit <a target="_blank" href="https://www.internetcookies.com" rel="noopener">internetcookies.com</a> to learn more about how to do this.</p>
-<!-- OneTrust Cookies Settings button start -->
-<p><button id="ot-sdk-btn" class="ot-sdk-show-settings">Your Cookie Settings</button></p>
-<!-- OneTrust Cookies Settings button end -->
 <h2>Changes and Amendments</h2>
 <p>We reserve the right to modify this Policy or its terms relating to the Website and Services at any time, effective upon posting of an updated version of this Policy on the Website. When we do, we will post a notification on the main page of the Website. Continued use of the Website and Services after any such changes shall constitute your consent to such changes.</p>
 <h2>Acceptance of This Policy</h2>
