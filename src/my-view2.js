@@ -48,6 +48,7 @@ function OptanonWrapper() { }
 <p>These cookies are also used for event tracking and remarketing purposes. Any data collected with these tags will be used in accordance with our and social networks’ privacy policies. We will not collect or share any personally identifiable information from the user.</p>
 <h2>What Are Your Cookie Options?</h2>
 <p>If you don’t like the idea of cookies or certain types of cookies, you can change your browser’s settings to delete cookies that have already been set and to not accept new cookies. Visit <a target="_blank" href="https://www.internetcookies.com" rel="noopener">internetcookies.com</a> to learn more about how to do this.</p>
+<p><button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Settings</button></p>
 <h2>Changes and Amendments</h2>
 <p>We reserve the right to modify this Policy or its terms relating to the Website and Services at any time, effective upon posting of an updated version of this Policy on the Website. When we do, we will post a notification on the main page of the Website. Continued use of the Website and Services after any such changes shall constitute your consent to such changes.</p>
 <h2>Acceptance of This Policy</h2>
